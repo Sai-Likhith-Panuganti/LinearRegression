@@ -4,17 +4,27 @@
 *	Mainly used for Regression tasks
 *	Suitable for predicting continuous target variables
 *	Line of Best Fit
+
 Linear Regression is a popular and widely used supervised learning algorithm used for predicting continuous target variables based on one or more input features. It assumes a linear relationship between the input variables (features) and the output variable (target).
  
 Assumptions of Linear Regression:
+
 •	Linearity: It assumes a linear relationship between the input features and the target variable.
+
 •	Independence: The input features should be independent of each other (no multicollinearity).
+
 •	Homoscedasticity: The residuals (the differences between the actual and predicted values) should have a constant variance across all levels of the input variables.
+
 •	Normality: The residuals should follow a normal distribution.
+
 Simple Linear Regression:
+
 Simple Linear Regression is the basic form of Linear Regression involving a single input feature (X) and a single target variable (y). The relationship is represented by the equation:
+
 y = b0 + b1*X
+
 where,
+
 •	y is the target variable.
 •	X is the input feature.
 •	b0 is the y-intercept (the value of y when X is zero).
