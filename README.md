@@ -9,7 +9,9 @@
 *	Line of Best Fit
 
 Linear Regression is a popular and widely used supervised learning algorithm used for predicting continuous target variables based on one or more input features. It assumes a linear relationship between the input variables (features) and the output variable (target).
- 
+
+ ![image](https://github.com/Sai-Likhith-Panuganti/LinearRegression/assets/102646751/b3b12f75-a49e-4d98-ba30-597d19a149f0)
+  
 # Assumptions of Linear Regression:
 
 * Linearity: It assumes a linear relationship between the input features and the target variable.
